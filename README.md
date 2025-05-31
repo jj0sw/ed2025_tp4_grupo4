@@ -1,1 +1,5 @@
-# ed2025_tp4_grupo4
+# TP4-EDM2025
+Integrantes del grupo: 
+Josefina Rios
+Butron Lujan
+Zelaya Apaza Zoe
