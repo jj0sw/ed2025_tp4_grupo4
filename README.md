@@ -1,5 +1,5 @@
 # TP4-EDM2025
 Integrantes del grupo: 
-Josefina Rios,
+Rios Josefina,
 Butron Lujan y
 Zelaya Apaza Zoe
